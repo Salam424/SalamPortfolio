@@ -50,6 +50,9 @@ sr.reveal(".blog02", { origin: "right" });
 sr.reveal(".blog03", { origin: "left" });
 sr.reveal(".blog04", { origin: "right" });
 
+//Testimonials
+sr.reveal(".testimonial");
+
 //footer
 sr.reveal(".f-content h2");
 sr.reveal(".f-content p", { delay: 500 });
