@@ -38,6 +38,8 @@ body {
   );
 
   color: rgba(129, 175, 221, 1);
+    max-width: 1500px;
+  margin: auto;
 }
 
 main,
